@@ -27,7 +27,7 @@ Windows Forms Project by: Blagoj Petrov (173024)
  -- Во моментот играта содржи само 15 прашања кои секогаш се поставуваат различно, како и 4 одговори за секое прашање (но на различно место, со цел корисникот да не може визуелно да го запамети одговорот). Секогаш има опција за додавање на повеќе прашања.
  -- Доколку корисникот ја заврши играта Тарик го известува со позитивна порака и може играта да ја почни одново
  ![Слика бр 2](https://photos.app.goo.gl/NHtk3ygKxtmPw5F69)
- ![Слика бр. 2.1](https://photos.app.goo.gl/ohEa457KUbGfkDTK7)
+ ![Слика бр. 2.1](https://photos.google.com/share/AF1QipO4iirmZRP7Cm1K79XU2qHM1jygaDR2XBVVibM-hymHUqF-Xqrt2L5aC7-Q-z7erA/photo/AF1QipNC-nOqYd5yUD40a_UhPLEz8jr9czwVpgi2oFjB?key=a3lVajByMDYxVFpEaU5tQ3VSWmlCeWo3dmZrUENB)
  ![Слика бр 2.2](https://photos.app.goo.gl/8D8GMZwKru3XzYjn8)
  ![Слика бр 2.3](https://photos.app.goo.gl/guTvRBGPMKFUhTrTA)
  ![Слика бр 2.4](https://photos.app.goo.gl/pesPhS78pJocXJWX8)
