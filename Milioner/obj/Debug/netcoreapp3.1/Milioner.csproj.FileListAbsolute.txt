@@ -1,0 +1,15 @@
+C:\Users\baze_\source\repos\Milioner\Milioner\bin\Debug\netcoreapp3.1\Milioner.exe
+C:\Users\baze_\source\repos\Milioner\Milioner\bin\Debug\netcoreapp3.1\Milioner.deps.json
+C:\Users\baze_\source\repos\Milioner\Milioner\bin\Debug\netcoreapp3.1\Milioner.runtimeconfig.json
+C:\Users\baze_\source\repos\Milioner\Milioner\bin\Debug\netcoreapp3.1\Milioner.runtimeconfig.dev.json
+C:\Users\baze_\source\repos\Milioner\Milioner\bin\Debug\netcoreapp3.1\Milioner.dll
+C:\Users\baze_\source\repos\Milioner\Milioner\bin\Debug\netcoreapp3.1\Milioner.pdb
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.csprojAssemblyReference.cache
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.Form1.resources
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.csproj.GenerateResource.cache
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.AssemblyInfoInputs.cache
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.AssemblyInfo.cs
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.csproj.CoreCompileInputs.cache
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.dll
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.pdb
+C:\Users\baze_\source\repos\Milioner\Milioner\obj\Debug\netcoreapp3.1\Milioner.genruntimeconfig.cache
