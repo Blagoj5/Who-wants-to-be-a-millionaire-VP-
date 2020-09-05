@@ -64,7 +64,7 @@ Windows Forms Project by: Blagoj Petrov (173024)
 
  1. Прашањата (15) и нивните одговори се чуваат локално. користејќи низи односно тие се ставени во функции кои што се задолжени да ги генерираат кога ќе бидат повикан (Тие се повикани случајно поради тоа што пред да се повикаат се прави shuffle на низата 		  randomNums која се користи токму за тоа).
             
-    private void Question1(int questionNum)
+    	private void Question1(int questionNum)
             {
                  label2.Text = questionNum.ToString() + ". What is the full real name of the YouTuber?";
     
@@ -74,11 +74,11 @@ Windows Forms Project by: Blagoj Petrov (173024)
                 this.answersShuffleHandler(answers, correctAnswer);
                
              }
-             
-    // Функција за рандомизирање на одговорите
-     private void answersShuffleHandler(string[] answers, string correctAnswer)
-        {
-            RadioButton[] radioButtons = { radioButton1, radioButton5, radioButton6, radioButton7 };
+         
+	 
+     	private void answersShuffleHandler(string[] answers, string correctAnswer)
+		{
+	    RadioButton[] radioButtons = { radioButton1, radioButton5, radioButton6, radioButton7 };
 
             shuffleArray<string>(answers);
 
@@ -108,7 +108,8 @@ Windows Forms Project by: Blagoj Petrov (173024)
 
  2. Во повеќето функции каде што имам избирања на "нешта" по случаен избор го користам сличниот принцип како во горниот код, односно прво (при лодирање на формата или при избор на новото прашање во зависност од ситуацијата) ја мешам низата корисејќи ја функцијата/методот **shuffleArray** направена за прифакање на секоја низа низи од било кој тип и  мешање на истата. 
  3. Креирани се и многу помошни фунции/методи кои што може да се видат во кодот пр. **rightAnswerChecker(answer, radioButton)**, **disableOthers(radioButton)**, **randomQuestionGenerator**, **questionPicker** etc.. 
-**2.** **Алгоритам**
+ 
+**2.Алгоритам**
 Користен алгоритам за мешање(shuffle) на низа по случаен избор:
    
 
